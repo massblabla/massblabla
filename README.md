@@ -3,7 +3,7 @@
 I am massblabla, a random guy that somehow loves to code
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=massblabla&show_icons=true&theme=highcontrast)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massblabla&hide=css,html&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massblabla&theme=highcontrast)
 
 - 🔭 I'm currently working on GlowstoneDecompiler which is a software to decompile Minecraft
 - 📫 How to reach me: 
