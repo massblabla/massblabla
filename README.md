@@ -8,7 +8,7 @@ I am massblabla, a random guy that somehow loves to code
 - 🔭 I'm currently working on GlowstoneDecompiler which is a software to decompile Minecraft
 - 📫 How to reach me: 
     -  On discord: massblabla
-    -  By email: massblabla[dot]alt[at]gmail[dot]com]
+    -  By email: massblabla[dot]alt[at]gmail[dot]com
     -  By joining my discord server: https://discord.gg/qFZxz43aFr
 - 😄 Pronouns: he/him
 
