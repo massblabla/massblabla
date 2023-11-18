@@ -5,7 +5,6 @@ I am massblabla, a random guy that somehow loves to code
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=massblabla&show_icons=true&theme=highcontrast)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massblabla&theme=highcontrast)
 
-- 🔭 I'm currently working on QDecompiler a packed scripts to easily decompile Minecraft.
 - 📫 How to reach me: 
     -  On discord: massblabla
     -  By email: massblabla[dot]alt[at]gmail[dot]com
