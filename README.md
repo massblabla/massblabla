@@ -11,9 +11,11 @@ I am massblabla, a random guy that somehow loves to code. And play Minecraft als
     -  By joining my discord server: https://discord.gg/qFZxz43aFr
 - 😄 Pronouns: he/him
 
-### Programming Languages (I know a bit or want to know)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/massblabla)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/massblabla)  
+### Programming Languages & Frameworks (I know a bit or want to know)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash)](https://github.com/massblabla)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/massblabla)
+[![C++](https://img.shields.io/badge/c++-black.svg?style=for-the-badge&logo=c%2B%2B)](https://github.com/massblabla)  
+[![JavaFX](https://img.shields.io/badge/javafx-black.svg?style=for-the-badge&logo=javafx)](https://github.com/massblabla)
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/massblabla)
