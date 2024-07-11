@@ -13,7 +13,7 @@ I am massblabla, a random guy that somehow loves to code. And play Minecraft als
 
 ### Programming Languages & Frameworks (I know a bit or want to know)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash)](https://github.com/massblabla)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/massblabla)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/massblabla)  
 [![JavaFX](https://img.shields.io/badge/javafx-black.svg?style=for-the-badge&logo=javafx)](https://github.com/massblabla)
 
 ### OS
