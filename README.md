@@ -1,21 +1,17 @@
-### Hi there ??
+<div align="center">
 
-I am massblabla, a random guy that somehow loves to code. And play Minecraft also.
+# Hello there...!
+I am *massblabla*, literally someone else who programs something and play Minecraft, or do whatever I wanted.  
+[website](https://massblabla.github.io) [wikipedia](https://en.wikipedia.org/wiki/User:MMABT) [twitter](https://x.com/massblabla) [reddit](https://www.reddit.com/user/massblabla_) [youtube](https://youtube.com/@massblabla) [tiktok](https://tiktok.com/@massblabla)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=massblabla&show_icons=true&theme=highcontrast)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massblabla&theme=highcontrast)
+## Stats
+![User Stats](https://github-readme-stats.vercel.app/api?username=massblabla&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) 
+![Language Stats](https://streak-stats.demolab.com?user=massblabla&theme=midnight-purple&hide_border=true)  
+![Streak Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=massblabla&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)  
 
-- 📫 How to reach me: 
-    -  On discord: massblabla
-    -  By email: massblabla[dot]alt[at]gmail[dot]com
-    -  By joining my discord server: https://discord.gg/qFZxz43aFr
-- 😄 Pronouns: he/him
+## Repositories I'm proud of
+[![massblabla/ThousandMazes](https://github-readme-stats.vercel.app/api/pin/?username=massblabla&repo=thousandmazes&theme=midnight-purple&hide_border=true)](https://github.com/massblabla/thousandmazes)
+[![massblabla/ThousandMazesFont](https://github-readme-stats.vercel.app/api/pin/?username=massblabla&repo=thousandmazesfont&theme=midnight-purple&hide_border=true)](https://github.com/massblabla/thousandmazesfont)
+[![massblabla/massblabla.github.io](https://github-readme-stats.vercel.app/api/pin/?username=massblabla&repo=massblabla.github.io&theme=midnight-purple&hide_border=true)](https://github.com/massblabla/massblabla.github.io)
 
-### Programming Languages & Frameworks (I know a bit or want to know)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash)](https://github.com/massblabla)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/massblabla)  
-[![JavaFX](https://img.shields.io/badge/javafx-black.svg?style=for-the-badge&logo=javafx)](https://github.com/massblabla)
-
-### OS
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/massblabla)
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/massblabla)
+</div>
