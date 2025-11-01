@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello there...!
+# Hello there! 👋
 I am *massblabla*, literally someone else who programs something and play Minecraft, or do whatever I wanted.  
 [website](https://massblabla.github.io) [wikipedia](https://en.wikipedia.org/wiki/User:MMABT) [twitter](https://x.com/massblabla) [reddit](https://www.reddit.com/user/massblabla_) [youtube](https://youtube.com/@massblabla) [tiktok](https://tiktok.com/@massblabla)
 
@@ -14,4 +14,5 @@ I am *massblabla*, literally someone else who programs something and play Minecr
 [![massblabla/ThousandMazesFont](https://github-readme-stats.vercel.app/api/pin/?username=massblabla&repo=thousandmazesfont&theme=midnight-purple&hide_border=true)](https://github.com/massblabla/thousandmazesfont)
 [![massblabla/massblabla.github.io](https://github-readme-stats.vercel.app/api/pin/?username=massblabla&repo=massblabla.github.io&theme=midnight-purple&hide_border=true)](https://github.com/massblabla/massblabla.github.io)
 
+<sub>I contributed to <a href="https://github.com/gabordemooij/citrine">gabordemooij/citrine</a> by translating it to Indonesian, my name lives proud there hehe 😁</sub>
 </div>
